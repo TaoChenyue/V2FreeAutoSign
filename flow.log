@@ -52,3 +52,5 @@
 2023-11-21 09:15:19,838	INFO	3*********@q*.com->签到阶段出现异常,请确认账号信息是否正确:JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
 2023-11-21 20:10:50,217	INFO	3*********@q*.com->{'ret': 1, 'msg': '登录成功'}
 2023-11-21 20:10:50,548	INFO	3*********@q*.com->{'ret': 0, 'msg': '您似乎已经签到过了...'}
+2023-11-22 09:15:10,309	INFO	3*********@q*.com->{'ret': 1, 'msg': '登录成功'}
+2023-11-22 09:15:10,632	INFO	3*********@q*.com->{'msg': '获得了 67MB 流量.', 'unflowtraffic': 109840433152, 'traffic': '102.3GB', 'trafficInfo': {'todayUsedTraffic': '9.32MB', 'lastUsedTraffic': '16.45GB', 'unUsedTraffic': '85.84GB'}, 'ret': 1}
