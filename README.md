@@ -1,4 +1,5 @@
 # V2free Auto Sign
+**因V2free添加了人机验证，此项目已不能自动签到。**
 
 更改自[V2free自动签到](https://github.com/xiangxingxing/v2free_auto_sign)
 
